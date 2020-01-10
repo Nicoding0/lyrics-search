@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lyrics-search/static/css/main.bd3d68fa.chunk.css",
+    "main.js": "/lyrics-search/static/js/main.813ce6e0.chunk.js",
+    "main.js.map": "/lyrics-search/static/js/main.813ce6e0.chunk.js.map",
+    "runtime-main.js": "/lyrics-search/static/js/runtime-main.3e50bb64.js",
+    "runtime-main.js.map": "/lyrics-search/static/js/runtime-main.3e50bb64.js.map",
+    "static/js/2.d8e35b15.chunk.js": "/lyrics-search/static/js/2.d8e35b15.chunk.js",
+    "static/js/2.d8e35b15.chunk.js.map": "/lyrics-search/static/js/2.d8e35b15.chunk.js.map",
+    "index.html": "/lyrics-search/index.html",
+    "precache-manifest.c2c27bea50800fc683b4ab84c9f29112.js": "/lyrics-search/precache-manifest.c2c27bea50800fc683b4ab84c9f29112.js",
+    "service-worker.js": "/lyrics-search/service-worker.js",
+    "static/css/main.bd3d68fa.chunk.css.map": "/lyrics-search/static/css/main.bd3d68fa.chunk.css.map",
+    "static/js/2.d8e35b15.chunk.js.LICENSE": "/lyrics-search/static/js/2.d8e35b15.chunk.js.LICENSE",
+    "static/media/31.gif": "/lyrics-search/static/media/31.24d95baa.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e50bb64.js",
+    "static/js/2.d8e35b15.chunk.js",
+    "static/css/main.bd3d68fa.chunk.css",
+    "static/js/main.813ce6e0.chunk.js"
+  ]
+}

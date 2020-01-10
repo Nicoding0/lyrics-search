@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,iBAAkB,CAElB,kBAAmB,CAEnB,WAGF","file":"main.bd3d68fa.chunk.css","sourcesContent":["body {\r\n  margin-bottom: 8em;\r\n\r\n  background: #faffd1;\r\n\r\n  height: 100%;\r\n\r\n  /* color: #5378ace1; */\r\n}\r\n"]}
