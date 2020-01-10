@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "492e0834fe13d877b3389107b3eebdce",
+    "revision": "9d675e3dd37c505c7c4ced0b463d8497",
     "url": "/lyrics-search/index.html"
   },
   {
-    "revision": "8e3efcada6e2ea7dea82",
+    "revision": "a3a5ba16ae9203bab744",
     "url": "/lyrics-search/static/css/main.bd3d68fa.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lyrics-search/static/js/2.d8e35b15.chunk.js.LICENSE"
   },
   {
-    "revision": "8e3efcada6e2ea7dea82",
-    "url": "/lyrics-search/static/js/main.46e7f1fb.chunk.js"
+    "revision": "a3a5ba16ae9203bab744",
+    "url": "/lyrics-search/static/js/main.ff78acad.chunk.js"
   },
   {
     "revision": "080ba871a45e1921a0b2",
